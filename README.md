@@ -29,6 +29,8 @@ https://builds.dotnet.microsoft.com/dotnet/WindowsDesktop/10.0.8/windowsdesktop-
 6. 変換中はステータスバーのプログレスバーに進捗が表示されます。
 7. 変換が完了すると、ステータスバーに完了件数が表示されます。
 
+!["簡単な使い方"](簡単な使い方.png)
+
 ## メイン画面説明
 
 ### 共通操作
